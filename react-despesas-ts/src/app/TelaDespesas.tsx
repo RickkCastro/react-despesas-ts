@@ -1,20 +1,19 @@
 import ExibicaoTotal from './ExibicaoTotal';
 import SelecaoAnoMes from './SelecaoAnoMes';
 import TabelaDespesas from './TabelaDespesas';
-import { useEffect, useState } from 'react';
-import { carregarDespesas, IDespesa } from './backend';
-import { Box } from '@mui/material';
+import { Box, Tabs, Tab } from '@mui/material';
 import { useHistory, useParams } from 'react-router-dom';
+import { useDespesas } from './useDespesas';
+import TabelaCategorias from './TabelaCategorias copy';
+import { useState } from 'react';
 
 export default function TelaDespesas() {
   const { anoMes } = useParams<{ anoMes: string }>();
-
-  const [despesas, setDespesas] = useState<IDespesa[]>([]);
   const history = useHistory();
 
-  useEffect(() => {
-    carregarDespesas(anoMes).then(setDespesas);
-  }, [anoMes]);
+  const { despesas, totalDespesas, categorias } = useDespesas(anoMes);
+
+  const [aba, setAba] = useState(0);
 
   return (
     <div>
@@ -22,9 +21,17 @@ export default function TelaDespesas() {
         <Box flex={'1'}>
           <SelecaoAnoMes anoMes={anoMes} onChangeAnoMes={onChangeAnoMes} />
         </Box>
-        <ExibicaoTotal despesas={despesas} />
+        <ExibicaoTotal total={totalDespesas} />
       </Box>
-      <TabelaDespesas despesas={despesas} />
+      <Tabs centered value={aba} onChange={(evt, novaAba) => setAba(novaAba)}>
+        <Tab label="Resumo" />
+        <Tab label="Detalhes" />
+      </Tabs>
+      {aba === 0 ? (
+        <TabelaCategorias categorias={categorias} />
+      ) : (
+        <TabelaDespesas despesas={despesas} />
+      )}
     </div>
   );
 

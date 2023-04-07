@@ -5,7 +5,7 @@
       "descricao": "Clube",
       "categoria": "Lazer",
       "valor": 76.71,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "26"
     },
     {
@@ -13,7 +13,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 33.19,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "14"
     },
     {
@@ -21,7 +21,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 100.44,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "03"
     },
     {
@@ -29,7 +29,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 201.13,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "05"
     },
     {
@@ -37,7 +37,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 15.96,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "05"
     },
     {
@@ -45,7 +45,7 @@
       "descricao": "Consulta médica",
       "categoria": "Saúde",
       "valor": 280.3,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "01"
     },
     {
@@ -53,7 +53,7 @@
       "descricao": "Clube",
       "categoria": "Lazer",
       "valor": 120.19,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "22"
     },
     {
@@ -61,7 +61,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 21.39,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "03"
     },
     {
@@ -69,7 +69,7 @@
       "descricao": "Academia",
       "categoria": "Saúde",
       "valor": 52.4,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "13"
     },
     {
@@ -77,7 +77,7 @@
       "descricao": "Compra no IFood",
       "categoria": "Alimentação",
       "valor": 24.83,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "27"
     },
     {
@@ -85,7 +85,7 @@
       "descricao": "Compra no shopping",
       "categoria": "Lazer",
       "valor": 215.84,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "05"
     },
     {
@@ -93,7 +93,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 123.38,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "23"
     },
     {
@@ -101,7 +101,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 52.7,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "24"
     },
     {
@@ -109,7 +109,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 98.45,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "12"
     },
     {
@@ -117,7 +117,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 76.55,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "26"
     },
     {
@@ -125,7 +125,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 18.96,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "09"
     },
     {
@@ -133,7 +133,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 92.67,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "24"
     },
     {
@@ -141,7 +141,7 @@
       "descricao": "Cinema",
       "categoria": "Lazer",
       "valor": 49.38,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "03"
     },
     {
@@ -149,7 +149,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 98.11,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "16"
     },
     {
@@ -157,7 +157,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 16.97,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "14"
     },
     {
@@ -165,7 +165,7 @@
       "descricao": "Academia",
       "categoria": "Saúde",
       "valor": 124.56,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "16"
     },
     {
@@ -173,7 +173,7 @@
       "descricao": "Farmácia",
       "categoria": "Saúde",
       "valor": 108.8,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "13"
     },
     {
@@ -181,7 +181,7 @@
       "descricao": "Academia",
       "categoria": "Saúde",
       "valor": 72.91,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "29"
     },
     {
@@ -189,7 +189,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 22.68,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "14"
     },
     {
@@ -197,7 +197,7 @@
       "descricao": "Consulta médica",
       "categoria": "Saúde",
       "valor": 285.56,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "29"
     },
     {
@@ -205,7 +205,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 118.07,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "06"
     },
     {
@@ -213,7 +213,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 376.18,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "05"
     },
     {
@@ -221,7 +221,7 @@
       "descricao": "Aluguel",
       "categoria": "Moradia",
       "valor": 1985.26,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "02"
     },
     {
@@ -229,7 +229,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 258.21,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "21"
     },
     {
@@ -237,7 +237,7 @@
       "descricao": "Churrasco",
       "categoria": "Lazer",
       "valor": 31.21,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "13"
     },
     {
@@ -245,7 +245,7 @@
       "descricao": "Seguro",
       "categoria": "Transporte",
       "valor": 701.52,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "21"
     },
     {
@@ -253,7 +253,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 3.49,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "25"
     },
     {
@@ -261,7 +261,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 401.54,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "28"
     },
     {
@@ -269,7 +269,7 @@
       "descricao": "Churrasco",
       "categoria": "Lazer",
       "valor": 54.4,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "05"
     },
     {
@@ -277,7 +277,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 167.29,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "13"
     },
     {
@@ -285,7 +285,7 @@
       "descricao": "Compra no IFood",
       "categoria": "Alimentação",
       "valor": 49.18,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "28"
     },
     {
@@ -293,7 +293,7 @@
       "descricao": "Seguro",
       "categoria": "Transporte",
       "valor": 614.34,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "03"
     },
     {
@@ -301,7 +301,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 31.07,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "29"
     },
     {
@@ -309,7 +309,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 38.15,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "23"
     },
     {
@@ -317,7 +317,7 @@
       "descricao": "Compra no IFood",
       "categoria": "Alimentação",
       "valor": 54.28,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "09"
     },
     {
@@ -325,7 +325,7 @@
       "descricao": "Conta de luz",
       "categoria": "Moradia",
       "valor": 256.68,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "10"
     },
     {
@@ -333,7 +333,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 88.83,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "08"
     },
     {
@@ -341,7 +341,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 59.32,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "29"
     },
     {
@@ -349,7 +349,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 21.47,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "13"
     },
     {
@@ -357,7 +357,7 @@
       "descricao": "Farmácia",
       "categoria": "Saúde",
       "valor": 134.8,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "18"
     },
     {
@@ -365,7 +365,7 @@
       "descricao": "Academia",
       "categoria": "Saúde",
       "valor": 76.76,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "01"
     },
     {
@@ -373,7 +373,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 25.24,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "21"
     },
     {
@@ -381,7 +381,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 68.93,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "15"
     },
     {
@@ -389,7 +389,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 1.88,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "10"
     },
     {
@@ -397,7 +397,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 73.02,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "22"
     },
     {
@@ -405,7 +405,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 118.54,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "12"
     },
     {
@@ -413,7 +413,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 26.86,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "18"
     },
     {
@@ -421,7 +421,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 70.96,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "24"
     },
     {
@@ -429,7 +429,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 88.97,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "18"
     },
     {
@@ -437,7 +437,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 63.21,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "05"
     },
     {
@@ -445,7 +445,7 @@
       "descricao": "Compra no IFood",
       "categoria": "Alimentação",
       "valor": 69.76,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "16"
     },
     {
@@ -453,7 +453,7 @@
       "descricao": "Clube",
       "categoria": "Lazer",
       "valor": 90.73,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "15"
     },
     {
@@ -461,7 +461,7 @@
       "descricao": "Farmácia",
       "categoria": "Saúde",
       "valor": 81.83,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "20"
     },
     {
@@ -469,7 +469,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 21.33,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "26"
     },
     {
@@ -477,7 +477,7 @@
       "descricao": "Compra no IFood",
       "categoria": "Alimentação",
       "valor": 24.75,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "03"
     },
     {
@@ -485,7 +485,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 421.56,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "23"
     },
     {
@@ -493,7 +493,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 32.42,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "27"
     },
     {
@@ -501,7 +501,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 78.19,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "26"
     },
     {
@@ -509,7 +509,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 248.52,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "23"
     },
     {
@@ -517,7 +517,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 50.24,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "10"
     },
     {
@@ -525,7 +525,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 152.45,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "14"
     },
     {
@@ -533,7 +533,7 @@
       "descricao": "Farmácia",
       "categoria": "Saúde",
       "valor": 155.89,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "08"
     },
     {
@@ -541,7 +541,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 89.17,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "11"
     },
     {
@@ -549,7 +549,7 @@
       "descricao": "Conta de luz",
       "categoria": "Moradia",
       "valor": 160.09,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "13"
     },
     {
@@ -557,7 +557,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 29.59,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "14"
     },
     {
@@ -565,7 +565,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 80.47,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "25"
     },
     {
@@ -573,7 +573,7 @@
       "descricao": "Compra no IFood",
       "categoria": "Alimentação",
       "valor": 55.8,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "14"
     },
     {
@@ -581,7 +581,7 @@
       "descricao": "Academia",
       "categoria": "Saúde",
       "valor": 109.61,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "29"
     },
     {
@@ -589,7 +589,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 85.69,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "24"
     },
     {
@@ -597,7 +597,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 131.85,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "26"
     },
     {
@@ -605,7 +605,7 @@
       "descricao": "Consulta médica",
       "categoria": "Saúde",
       "valor": 233.46,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "06"
     },
     {
@@ -613,7 +613,7 @@
       "descricao": "Seguro",
       "categoria": "Transporte",
       "valor": 232.11,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "13"
     },
     {
@@ -621,7 +621,7 @@
       "descricao": "Conta de luz",
       "categoria": "Moradia",
       "valor": 328.01,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "07"
     },
     {
@@ -629,7 +629,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 85.68,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "24"
     },
     {
@@ -637,7 +637,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 31.09,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "11"
     },
     {
@@ -645,7 +645,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 34.37,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "26"
     },
     {
@@ -653,7 +653,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 54.76,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "30"
     },
     {
@@ -661,7 +661,7 @@
       "descricao": "Conta de água",
       "categoria": "Moradia",
       "valor": 48.28,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "26"
     },
     {
@@ -669,7 +669,7 @@
       "descricao": "Conta de luz",
       "categoria": "Moradia",
       "valor": 217.51,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "14"
     },
     {
@@ -677,7 +677,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 10.67,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "04"
     },
     {
@@ -685,7 +685,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 24.22,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "02"
     },
     {
@@ -693,7 +693,7 @@
       "descricao": "Farmácia",
       "categoria": "Saúde",
       "valor": 245.5,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "03"
     },
     {
@@ -701,7 +701,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 186.03,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "03"
     },
     {
@@ -709,7 +709,7 @@
       "descricao": "Seguro",
       "categoria": "Transporte",
       "valor": 585.45,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "17"
     },
     {
@@ -717,7 +717,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 167.82,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "29"
     },
     {
@@ -725,7 +725,7 @@
       "descricao": "Seguro",
       "categoria": "Transporte",
       "valor": 634.63,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "19"
     },
     {
@@ -733,7 +733,7 @@
       "descricao": "Cinema",
       "categoria": "Lazer",
       "valor": 19.08,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "06"
     },
     {
@@ -741,7 +741,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 116.76,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "07"
     },
     {
@@ -749,7 +749,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 21.17,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "18"
     },
     {
@@ -757,7 +757,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 185.54,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "12"
     },
     {
@@ -765,7 +765,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 106.72,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "03"
     },
     {
@@ -773,7 +773,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 26.33,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "05"
     },
     {
@@ -781,7 +781,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 69.65,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "21"
     },
     {
@@ -789,7 +789,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 36.59,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "13"
     },
     {
@@ -797,7 +797,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 76.5,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "25"
     },
     {
@@ -805,7 +805,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 80.24,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "10"
     },
     {
@@ -813,7 +813,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 66.6,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "29"
     },
     {
@@ -821,7 +821,7 @@
       "descricao": "Compra no IFood",
       "categoria": "Alimentação",
       "valor": 66.49,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "29"
     },
     {
@@ -829,7 +829,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 31.89,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "13"
     },
     {
@@ -837,7 +837,7 @@
       "descricao": "Clube",
       "categoria": "Lazer",
       "valor": 53.31,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "18"
     },
     {
@@ -845,7 +845,7 @@
       "descricao": "Compra no shopping",
       "categoria": "Lazer",
       "valor": 216.76,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "21"
     },
     {
@@ -853,7 +853,7 @@
       "descricao": "Consulta médica",
       "categoria": "Saúde",
       "valor": 236.98,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "07"
     },
     {
@@ -861,7 +861,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 17.57,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "11"
     },
     {
@@ -869,7 +869,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 148.77,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "26"
     },
     {
@@ -877,7 +877,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 411.01,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "28"
     },
     {
@@ -885,7 +885,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 181.8,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "27"
     },
     {
@@ -893,7 +893,7 @@
       "descricao": "Consulta médica",
       "categoria": "Saúde",
       "valor": 235.89,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "03"
     },
     {
@@ -901,7 +901,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 9.95,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "07"
     },
     {
@@ -909,7 +909,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 27.51,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "18"
     },
     {
@@ -917,7 +917,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 53.69,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "02"
     },
     {
@@ -925,7 +925,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 95.55,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "07"
     },
     {
@@ -933,7 +933,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 96.47,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "01"
     },
     {
@@ -941,7 +941,7 @@
       "descricao": "Academia",
       "categoria": "Saúde",
       "valor": 149.26,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "03"
     },
     {
@@ -949,7 +949,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 68.35,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "28"
     },
     {
@@ -957,7 +957,7 @@
       "descricao": "Cinema",
       "categoria": "Lazer",
       "valor": 69.91,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "10"
     },
     {
@@ -965,7 +965,7 @@
       "descricao": "Presente para mãe",
       "categoria": "Outros",
       "valor": 111.75,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "07"
     },
     {
@@ -973,7 +973,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 92.64,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "16"
     },
     {
@@ -981,7 +981,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 35.44,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "23"
     },
     {
@@ -989,7 +989,7 @@
       "descricao": "Aluguel",
       "categoria": "Moradia",
       "valor": 1925.7,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "18"
     },
     {
@@ -997,7 +997,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 86.59,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "28"
     },
     {
@@ -1005,7 +1005,7 @@
       "descricao": "Conta de luz",
       "categoria": "Moradia",
       "valor": 147.72,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "24"
     },
     {
@@ -1013,7 +1013,7 @@
       "descricao": "Cinema",
       "categoria": "Lazer",
       "valor": 44.08,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "25"
     },
     {
@@ -1021,7 +1021,7 @@
       "descricao": "Consulta médica",
       "categoria": "Saúde",
       "valor": 251.12,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "31"
     },
     {
@@ -1029,7 +1029,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 19.11,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "20"
     },
     {
@@ -1037,7 +1037,7 @@
       "descricao": "Clube",
       "categoria": "Lazer",
       "valor": 156.89,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "15"
     },
     {
@@ -1045,7 +1045,7 @@
       "descricao": "Farmácia",
       "categoria": "Saúde",
       "valor": 60.06,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "28"
     },
     {
@@ -1053,7 +1053,7 @@
       "descricao": "Churrasco",
       "categoria": "Lazer",
       "valor": 208.65,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "04"
     },
     {
@@ -1061,7 +1061,7 @@
       "descricao": "Academia",
       "categoria": "Saúde",
       "valor": 114.04,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "17"
     },
     {
@@ -1069,7 +1069,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 98.9,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "24"
     },
     {
@@ -1077,7 +1077,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 31.38,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "01"
     },
     {
@@ -1085,7 +1085,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 128.91,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "30"
     },
     {
@@ -1093,7 +1093,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 50.71,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "24"
     },
     {
@@ -1101,7 +1101,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 1.36,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "15"
     },
     {
@@ -1109,7 +1109,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 24.67,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "17"
     },
     {
@@ -1117,7 +1117,7 @@
       "descricao": "Farmácia",
       "categoria": "Saúde",
       "valor": 48.72,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "26"
     },
     {
@@ -1125,7 +1125,7 @@
       "descricao": "Reforma",
       "categoria": "Moradia",
       "valor": 1143.0,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "17"
     },
     {
@@ -1133,7 +1133,7 @@
       "descricao": "Consulta médica",
       "categoria": "Saúde",
       "valor": 225.72,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "10"
     },
     {
@@ -1141,7 +1141,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 93.43,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "23"
     },
     {
@@ -1149,7 +1149,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 11.01,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "21"
     },
     {
@@ -1157,7 +1157,7 @@
       "descricao": "Compra no IFood",
       "categoria": "Alimentação",
       "valor": 48.3,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "16"
     },
     {
@@ -1165,7 +1165,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 105.43,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "20"
     },
     {
@@ -1173,7 +1173,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 35.44,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "15"
     },
     {
@@ -1181,7 +1181,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 101.24,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "10"
     },
     {
@@ -1189,7 +1189,7 @@
       "descricao": "Conta de água",
       "categoria": "Moradia",
       "valor": 227.36,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "07"
     },
     {
@@ -1197,7 +1197,7 @@
       "descricao": "Cinema",
       "categoria": "Lazer",
       "valor": 36.65,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "12"
     },
     {
@@ -1205,7 +1205,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 112.06,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "25"
     },
     {
@@ -1213,7 +1213,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 23.83,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "13"
     },
     {
@@ -1221,7 +1221,7 @@
       "descricao": "Conta de luz",
       "categoria": "Moradia",
       "valor": 249.33,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "17"
     },
     {
@@ -1229,7 +1229,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 91.5,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "10"
     },
     {
@@ -1237,7 +1237,7 @@
       "descricao": "Conta de água",
       "categoria": "Moradia",
       "valor": 61.46,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "24"
     },
     {
@@ -1245,7 +1245,7 @@
       "descricao": "Farmácia",
       "categoria": "Saúde",
       "valor": 98.31,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "04"
     },
     {
@@ -1253,7 +1253,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 39.65,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "13"
     },
     {
@@ -1261,7 +1261,7 @@
       "descricao": "Compra no IFood",
       "categoria": "Alimentação",
       "valor": 62.76,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "27"
     },
     {
@@ -1269,7 +1269,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 83.33,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "16"
     },
     {
@@ -1277,7 +1277,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 45.46,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "04"
     },
     {
@@ -1285,7 +1285,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 209.04,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "03"
     },
     {
@@ -1293,7 +1293,7 @@
       "descricao": "Clube",
       "categoria": "Lazer",
       "valor": 100.25,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "10"
     },
     {
@@ -1301,7 +1301,7 @@
       "descricao": "Academia",
       "categoria": "Saúde",
       "valor": 88.85,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "21"
     },
     {
@@ -1309,7 +1309,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 363.73,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "13"
     },
     {
@@ -1317,7 +1317,7 @@
       "descricao": "Cinema",
       "categoria": "Lazer",
       "valor": 49.87,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "03"
     },
     {
@@ -1325,7 +1325,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 41.22,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "11"
     },
     {
@@ -1333,7 +1333,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 123.78,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "19"
     },
     {
@@ -1341,7 +1341,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 77.01,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "22"
     },
     {
@@ -1349,7 +1349,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 398.4,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "05"
     },
     {
@@ -1357,7 +1357,7 @@
       "descricao": "Aluguel",
       "categoria": "Moradia",
       "valor": 1698.8,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "23"
     },
     {
@@ -1365,7 +1365,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 69.38,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "27"
     },
     {
@@ -1373,7 +1373,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 10.76,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "28"
     },
     {
@@ -1381,7 +1381,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 83.02,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "09"
     },
     {
@@ -1389,7 +1389,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 22.1,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "24"
     },
     {
@@ -1397,7 +1397,7 @@
       "descricao": "Consulta médica",
       "categoria": "Saúde",
       "valor": 57.89,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "25"
     },
     {
@@ -1405,7 +1405,7 @@
       "descricao": "Conta de luz",
       "categoria": "Moradia",
       "valor": 223.35,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "07"
     },
     {
@@ -1413,7 +1413,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 15.89,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "08"
     },
     {
@@ -1421,7 +1421,7 @@
       "descricao": "Conta de água",
       "categoria": "Moradia",
       "valor": 192.39,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "10"
     },
     {
@@ -1429,7 +1429,7 @@
       "descricao": "Seguro",
       "categoria": "Transporte",
       "valor": 830.89,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "22"
     },
     {
@@ -1437,7 +1437,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 79.04,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "20"
     },
     {
@@ -1445,7 +1445,7 @@
       "descricao": "Conta de luz",
       "categoria": "Moradia",
       "valor": 294.37,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "23"
     },
     {
@@ -1453,7 +1453,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 20.44,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "10"
     },
     {
@@ -1461,7 +1461,7 @@
       "descricao": "Compra no shopping",
       "categoria": "Lazer",
       "valor": 340.88,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "11"
     },
     {
@@ -1469,7 +1469,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 39.85,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "18"
     },
     {
@@ -1477,7 +1477,7 @@
       "descricao": "Cinema",
       "categoria": "Lazer",
       "valor": 84.58,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "17"
     },
     {
@@ -1485,7 +1485,7 @@
       "descricao": "Revisão do carro",
       "categoria": "Transporte",
       "valor": 1017.21,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "13"
     },
     {
@@ -1493,7 +1493,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 24.85,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "24"
     },
     {
@@ -1501,7 +1501,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 26.45,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "21"
     },
     {
@@ -1509,7 +1509,7 @@
       "descricao": "Farmácia",
       "categoria": "Saúde",
       "valor": 116.85,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "13"
     },
     {
@@ -1517,7 +1517,7 @@
       "descricao": "Compra no IFood",
       "categoria": "Alimentação",
       "valor": 13.9,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "11"
     },
     {
@@ -1525,7 +1525,7 @@
       "descricao": "Conta de água",
       "categoria": "Moradia",
       "valor": 223.36,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "26"
     },
     {
@@ -1533,7 +1533,7 @@
       "descricao": "Compra no shopping",
       "categoria": "Lazer",
       "valor": 358.04,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "12"
     },
     {
@@ -1541,7 +1541,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 77.77,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "31"
     },
     {
@@ -1549,7 +1549,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 79.44,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "12"
     },
     {
@@ -1557,7 +1557,7 @@
       "descricao": "Churrasco",
       "categoria": "Lazer",
       "valor": 15.27,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "01"
     },
     {
@@ -1565,7 +1565,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 106.86,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "16"
     },
     {
@@ -1573,7 +1573,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 28.97,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "20"
     },
     {
@@ -1581,7 +1581,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 12.78,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "13"
     },
     {
@@ -1589,7 +1589,7 @@
       "descricao": "Clube",
       "categoria": "Lazer",
       "valor": 53.78,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "17"
     },
     {
@@ -1597,7 +1597,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 73.19,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "11"
     },
     {
@@ -1605,7 +1605,7 @@
       "descricao": "Academia",
       "categoria": "Saúde",
       "valor": 71.23,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "20"
     },
     {
@@ -1613,7 +1613,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 61.33,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "16"
     },
     {
@@ -1621,7 +1621,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 82.8,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "28"
     },
     {
@@ -1629,7 +1629,7 @@
       "descricao": "Farmácia",
       "categoria": "Saúde",
       "valor": 120.57,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "06"
     },
     {
@@ -1637,7 +1637,7 @@
       "descricao": "Cinema",
       "categoria": "Lazer",
       "valor": 48.18,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "23"
     },
     {
@@ -1645,7 +1645,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 102.74,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "20"
     },
     {
@@ -1653,7 +1653,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 96.09,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "12"
     },
     {
@@ -1661,7 +1661,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 69.65,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "18"
     },
     {
@@ -1669,7 +1669,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 88.36,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "02"
     },
     {
@@ -1677,7 +1677,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 18.87,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "15"
     },
     {
@@ -1685,7 +1685,7 @@
       "descricao": "Clube",
       "categoria": "Lazer",
       "valor": 87.87,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "21"
     },
     {
@@ -1693,7 +1693,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 76.83,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "03"
     },
     {
@@ -1701,7 +1701,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 55.01,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "14"
     },
     {
@@ -1709,7 +1709,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 32.64,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "27"
     },
     {
@@ -1717,7 +1717,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 352.99,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "14"
     },
     {
@@ -1725,7 +1725,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 15.17,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "02"
     },
     {
@@ -1733,7 +1733,7 @@
       "descricao": "Salão de beleza",
       "categoria": "Outros",
       "valor": 41.96,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "02"
     },
     {
@@ -1741,7 +1741,7 @@
       "descricao": "Academia",
       "categoria": "Saúde",
       "valor": 63.34,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "29"
     },
     {
@@ -1749,7 +1749,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 85.13,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "28"
     },
     {
@@ -1757,7 +1757,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 128.23,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "03"
     },
     {
@@ -1765,7 +1765,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 100.62,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "23"
     },
     {
@@ -1773,7 +1773,7 @@
       "descricao": "Compra no IFood",
       "categoria": "Alimentação",
       "valor": 21.89,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "04"
     },
     {
@@ -1781,7 +1781,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 117.9,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "21"
     },
     {
@@ -1789,7 +1789,7 @@
       "descricao": "Aluguel",
       "categoria": "Moradia",
       "valor": 2999.44,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "09"
     },
     {
@@ -1797,7 +1797,7 @@
       "descricao": "Compra no shopping",
       "categoria": "Lazer",
       "valor": 308.27,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "29"
     },
     {
@@ -1805,7 +1805,7 @@
       "descricao": "Clube",
       "categoria": "Lazer",
       "valor": 34.15,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "19"
     },
     {
@@ -1813,7 +1813,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 14.97,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "06"
     },
     {
@@ -1821,7 +1821,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 407.16,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "08"
     },
     {
@@ -1829,7 +1829,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 23.65,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "06"
     },
     {
@@ -1837,7 +1837,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 111.94,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "16"
     },
     {
@@ -1845,7 +1845,7 @@
       "descricao": "Aluguel",
       "categoria": "Moradia",
       "valor": 789.18,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "10"
     },
     {
@@ -1853,7 +1853,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 47.69,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "26"
     },
     {
@@ -1861,7 +1861,7 @@
       "descricao": "Salão de beleza",
       "categoria": "Outros",
       "valor": 81.35,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "15"
     },
     {
@@ -1869,7 +1869,7 @@
       "descricao": "Farmácia",
       "categoria": "Saúde",
       "valor": 13.53,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "06"
     },
     {
@@ -1877,7 +1877,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 176.04,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "24"
     },
     {
@@ -1885,7 +1885,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 68.79,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "15"
     },
     {
@@ -1893,7 +1893,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 414.41,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "22"
     },
     {
@@ -1901,7 +1901,7 @@
       "descricao": "Seguro",
       "categoria": "Transporte",
       "valor": 473.23,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "07"
     },
     {
@@ -1909,7 +1909,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 54.3,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "02"
     },
     {
@@ -1917,7 +1917,7 @@
       "descricao": "Clube",
       "categoria": "Lazer",
       "valor": 84.44,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "22"
     },
     {
@@ -1925,7 +1925,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 27.44,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "13"
     },
     {
@@ -1933,7 +1933,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 96.98,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "11"
     },
     {
@@ -1941,7 +1941,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 46.17,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "16"
     },
     {
@@ -1949,7 +1949,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 68.97,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "17"
     },
     {
@@ -1957,7 +1957,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 22.95,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "20"
     },
     {
@@ -1965,7 +1965,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 78.31,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "30"
     },
     {
@@ -1973,7 +1973,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 39.13,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "13"
     },
     {
@@ -1981,7 +1981,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 42.18,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "01"
     },
     {
@@ -1989,7 +1989,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 115.62,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "08"
     },
     {
@@ -1997,7 +1997,7 @@
       "descricao": "Compra no IFood",
       "categoria": "Alimentação",
       "valor": 91.77,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "22"
     },
     {
@@ -2005,7 +2005,7 @@
       "descricao": "Compra no IFood",
       "categoria": "Alimentação",
       "valor": 61.39,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "20"
     },
     {
@@ -2013,7 +2013,7 @@
       "descricao": "Conta de água",
       "categoria": "Moradia",
       "valor": 223.68,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "16"
     },
     {
@@ -2021,7 +2021,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 227.05,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "12"
     },
     {
@@ -2029,7 +2029,7 @@
       "descricao": "Salão de beleza",
       "categoria": "Outros",
       "valor": 53.48,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "19"
     },
     {
@@ -2037,7 +2037,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 58.88,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "18"
     },
     {
@@ -2045,7 +2045,7 @@
       "descricao": "Compra no shopping",
       "categoria": "Lazer",
       "valor": 342.02,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "02"
     },
     {
@@ -2053,7 +2053,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 53.91,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "15"
     },
     {
@@ -2061,7 +2061,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 69.51,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "18"
     },
     {
@@ -2069,7 +2069,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 45.27,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "10"
     },
     {
@@ -2077,7 +2077,7 @@
       "descricao": "Salão de beleza",
       "categoria": "Outros",
       "valor": -1.54,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "20"
     },
     {
@@ -2085,7 +2085,7 @@
       "descricao": "Academia",
       "categoria": "Saúde",
       "valor": 185.14,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "11"
     },
     {
@@ -2093,7 +2093,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 55.6,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "18"
     },
     {
@@ -2101,7 +2101,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 149.0,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "24"
     },
     {
@@ -2109,7 +2109,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 58.99,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "20"
     },
     {
@@ -2117,7 +2117,7 @@
       "descricao": "Salão de beleza",
       "categoria": "Outros",
       "valor": 41.39,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "28"
     },
     {
@@ -2125,7 +2125,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 28.89,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "15"
     },
     {
@@ -2133,7 +2133,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 57.51,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "25"
     },
     {
@@ -2141,7 +2141,7 @@
       "descricao": "Cinema",
       "categoria": "Lazer",
       "valor": 69.38,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "01"
     },
     {
@@ -2149,7 +2149,7 @@
       "descricao": "Farmácia",
       "categoria": "Saúde",
       "valor": 137.82,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "24"
     },
     {
@@ -2157,7 +2157,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 468.98,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "22"
     },
     {
@@ -2165,7 +2165,7 @@
       "descricao": "Churrasco",
       "categoria": "Lazer",
       "valor": 109.08,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "30"
     },
     {
@@ -2173,7 +2173,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 79.73,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "06"
     },
     {
@@ -2181,7 +2181,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 165.25,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "19"
     },
     {
@@ -2189,7 +2189,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 149.6,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "16"
     },
     {
@@ -2197,7 +2197,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 359.93,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "28"
     },
     {
@@ -2205,7 +2205,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 258.58,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "02"
     },
     {
@@ -2213,7 +2213,7 @@
       "descricao": "Compra no IFood",
       "categoria": "Alimentação",
       "valor": 76.85,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "07"
     },
     {
@@ -2221,7 +2221,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 137.74,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "28"
     },
     {
@@ -2229,7 +2229,7 @@
       "descricao": "Presente para mãe",
       "categoria": "Outros",
       "valor": 300.41,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "20"
     },
     {
@@ -2237,7 +2237,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 512.34,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "25"
     },
     {
@@ -2245,7 +2245,7 @@
       "descricao": "Clube",
       "categoria": "Lazer",
       "valor": 52.71,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "21"
     },
     {
@@ -2253,7 +2253,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 57.5,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "11"
     },
     {
@@ -2261,7 +2261,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 291.78,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "20"
     },
     {
@@ -2269,7 +2269,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 41.17,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "14"
     },
     {
@@ -2277,7 +2277,7 @@
       "descricao": "Aluguel",
       "categoria": "Moradia",
       "valor": 2462.09,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "07"
     },
     {
@@ -2285,7 +2285,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 54.55,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "03"
     },
     {
@@ -2293,7 +2293,7 @@
       "descricao": "Cinema",
       "categoria": "Lazer",
       "valor": 53.81,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "08"
     },
     {
@@ -2301,7 +2301,7 @@
       "descricao": "Conta de água",
       "categoria": "Moradia",
       "valor": 252.83,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "16"
     },
     {
@@ -2309,7 +2309,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 120.18,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "19"
     },
     {
@@ -2317,7 +2317,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 131.36,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "26"
     },
     {
@@ -2325,7 +2325,7 @@
       "descricao": "Churrasco",
       "categoria": "Lazer",
       "valor": 105.21,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "05"
     },
     {
@@ -2333,7 +2333,7 @@
       "descricao": "Conta de água",
       "categoria": "Moradia",
       "valor": 156.5,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "30"
     },
     {
@@ -2341,7 +2341,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 32.35,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "16"
     },
     {
@@ -2349,7 +2349,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 13.18,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "14"
     },
     {
@@ -2357,7 +2357,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 70.24,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "16"
     },
     {
@@ -2365,7 +2365,7 @@
       "descricao": "Salão de beleza",
       "categoria": "Outros",
       "valor": 63.1,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "02"
     },
     {
@@ -2373,7 +2373,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 26.25,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "18"
     },
     {
@@ -2381,7 +2381,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 70.05,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "09"
     },
     {
@@ -2389,7 +2389,7 @@
       "descricao": "Farmácia",
       "categoria": "Saúde",
       "valor": 123.71,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "31"
     },
     {
@@ -2397,7 +2397,7 @@
       "descricao": "Conta de água",
       "categoria": "Moradia",
       "valor": 132.54,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "19"
     },
     {
@@ -2405,7 +2405,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 22.1,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "26"
     },
     {
@@ -2413,7 +2413,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 256.52,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "01"
     },
     {
@@ -2421,7 +2421,7 @@
       "descricao": "Aluguel",
       "categoria": "Moradia",
       "valor": 2325.96,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "25"
     },
     {
@@ -2429,7 +2429,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 119.24,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "12"
     },
     {
@@ -2437,7 +2437,7 @@
       "descricao": "Conta de luz",
       "categoria": "Moradia",
       "valor": 191.03,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "01"
     },
     {
@@ -2445,7 +2445,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 34.0,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "16"
     },
     {
@@ -2453,7 +2453,7 @@
       "descricao": "Salão de beleza",
       "categoria": "Outros",
       "valor": 59.88,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "04"
     },
     {
@@ -2461,7 +2461,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 323.23,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "21"
     },
     {
@@ -2469,7 +2469,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 78.02,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "29"
     },
     {
@@ -2477,7 +2477,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 74.3,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "27"
     },
     {
@@ -2485,7 +2485,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 122.93,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "04"
     },
     {
@@ -2493,7 +2493,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 170.51,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "15"
     },
     {
@@ -2501,7 +2501,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 368.2,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "25"
     },
     {
@@ -2509,7 +2509,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": -15.53,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "07"
     },
     {
@@ -2517,7 +2517,7 @@
       "descricao": "Compra no shopping",
       "categoria": "Lazer",
       "valor": 181.31,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "22"
     },
     {
@@ -2525,7 +2525,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 82.81,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "12"
     },
     {
@@ -2533,7 +2533,7 @@
       "descricao": "Cinema",
       "categoria": "Lazer",
       "valor": 90.39,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "11"
     },
     {
@@ -2541,7 +2541,7 @@
       "descricao": "Academia",
       "categoria": "Saúde",
       "valor": 7.53,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "10"
     },
     {
@@ -2549,7 +2549,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 13.27,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "01"
     },
     {
@@ -2557,7 +2557,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 93.86,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "11"
     },
     {
@@ -2565,7 +2565,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 118.6,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "13"
     },
     {
@@ -2573,7 +2573,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 117.07,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "18"
     },
     {
@@ -2581,7 +2581,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 231.09,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "13"
     },
     {
@@ -2589,7 +2589,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 26.24,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "19"
     },
     {
@@ -2597,7 +2597,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 37.52,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "03"
     },
     {
@@ -2605,7 +2605,7 @@
       "descricao": "Salão de beleza",
       "categoria": "Outros",
       "valor": 43.6,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "12"
     },
     {
@@ -2613,7 +2613,7 @@
       "descricao": "Compra no shopping",
       "categoria": "Lazer",
       "valor": 99.28,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "20"
     },
     {
@@ -2621,7 +2621,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 18.66,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "16"
     },
     {
@@ -2629,7 +2629,7 @@
       "descricao": "Compra no IFood",
       "categoria": "Alimentação",
       "valor": 87.81,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "24"
     },
     {
@@ -2637,7 +2637,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 93.64,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "19"
     },
     {
@@ -2645,7 +2645,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 65.72,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "27"
     },
     {
@@ -2653,7 +2653,7 @@
       "descricao": "Conta de luz",
       "categoria": "Moradia",
       "valor": 170.23,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "12"
     },
     {
@@ -2661,7 +2661,7 @@
       "descricao": "Conta de água",
       "categoria": "Moradia",
       "valor": 174.32,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "10"
     },
     {
@@ -2669,7 +2669,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 5.21,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "28"
     },
     {
@@ -2677,7 +2677,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 37.77,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "11"
     },
     {
@@ -2685,7 +2685,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 463.16,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "30"
     },
     {
@@ -2693,7 +2693,7 @@
       "descricao": "Conta de luz",
       "categoria": "Moradia",
       "valor": 25.44,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "15"
     },
     {
@@ -2701,7 +2701,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 37.33,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "01"
     },
     {
@@ -2709,7 +2709,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 106.02,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "15"
     },
     {
@@ -2717,7 +2717,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 142.45,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "15"
     },
     {
@@ -2725,7 +2725,7 @@
       "descricao": "Cinema",
       "categoria": "Lazer",
       "valor": 59.48,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "02"
     },
     {
@@ -2733,7 +2733,7 @@
       "descricao": "Conta de luz",
       "categoria": "Moradia",
       "valor": 253.09,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "28"
     },
     {
@@ -2741,7 +2741,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 196.48,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "29"
     },
     {
@@ -2749,7 +2749,7 @@
       "descricao": "Conta de água",
       "categoria": "Moradia",
       "valor": 59.76,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "02"
     },
     {
@@ -2757,7 +2757,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 267.41,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "20"
     },
     {
@@ -2765,7 +2765,7 @@
       "descricao": "Farmácia",
       "categoria": "Saúde",
       "valor": 159.99,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "10"
     },
     {
@@ -2773,7 +2773,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 28.44,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "18"
     },
     {
@@ -2781,7 +2781,7 @@
       "descricao": "Academia",
       "categoria": "Saúde",
       "valor": 76.56,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "20"
     },
     {
@@ -2789,7 +2789,7 @@
       "descricao": "Seguro",
       "categoria": "Transporte",
       "valor": 716.37,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "14"
     },
     {
@@ -2797,7 +2797,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 25.63,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "07"
     },
     {
@@ -2805,7 +2805,7 @@
       "descricao": "Churrasco",
       "categoria": "Lazer",
       "valor": 119.41,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "22"
     },
     {
@@ -2813,7 +2813,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 84.89,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "26"
     },
     {
@@ -2821,7 +2821,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 25.87,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "04"
     },
     {
@@ -2829,7 +2829,7 @@
       "descricao": "Compra no IFood",
       "categoria": "Alimentação",
       "valor": 54.34,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "21"
     },
     {
@@ -2837,7 +2837,7 @@
       "descricao": "Churrasco",
       "categoria": "Lazer",
       "valor": 23.33,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "25"
     },
     {
@@ -2845,7 +2845,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 22.89,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "18"
     },
     {
@@ -2853,7 +2853,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 84.89,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "01"
     },
     {
@@ -2861,7 +2861,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 27.08,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "04"
     },
     {
@@ -2869,7 +2869,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 38.3,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "04"
     },
     {
@@ -2877,7 +2877,7 @@
       "descricao": "Conta de luz",
       "categoria": "Moradia",
       "valor": 284.27,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "11"
     },
     {
@@ -2885,7 +2885,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 27.69,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "13"
     },
     {
@@ -2893,7 +2893,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 143.69,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "01"
     },
     {
@@ -2901,7 +2901,7 @@
       "descricao": "Academia",
       "categoria": "Saúde",
       "valor": 67.85,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "04"
     },
     {
@@ -2909,7 +2909,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 31.24,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "04"
     },
     {
@@ -2917,7 +2917,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 105.69,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "07"
     },
     {
@@ -2925,7 +2925,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 38.36,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "05"
     },
     {
@@ -2933,7 +2933,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 25.48,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "28"
     },
     {
@@ -2941,7 +2941,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 93.01,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "04"
     },
     {
@@ -2949,7 +2949,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 106.41,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "04"
     },
     {
@@ -2957,7 +2957,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 119.67,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "23"
     },
     {
@@ -2965,7 +2965,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 61.94,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "04"
     },
     {
@@ -2973,7 +2973,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 70.79,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "09"
     },
     {
@@ -2981,7 +2981,7 @@
       "descricao": "Conta de luz",
       "categoria": "Moradia",
       "valor": 268.74,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "04"
     },
     {
@@ -2989,7 +2989,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 143.96,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "09"
     },
     {
@@ -2997,7 +2997,7 @@
       "descricao": "Compra no shopping",
       "categoria": "Lazer",
       "valor": 201.55,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "05"
     },
     {
@@ -3005,7 +3005,7 @@
       "descricao": "Cinema",
       "categoria": "Lazer",
       "valor": 29.31,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "08"
     },
     {
@@ -3013,7 +3013,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 38.59,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "10"
     },
     {
@@ -3021,7 +3021,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 68.05,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "22"
     },
     {
@@ -3029,7 +3029,7 @@
       "descricao": "Consulta médica",
       "categoria": "Saúde",
       "valor": 191.57,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "07"
     },
     {
@@ -3037,7 +3037,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 34.17,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "15"
     },
     {
@@ -3045,7 +3045,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 104.55,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "16"
     },
     {
@@ -3053,7 +3053,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 47.16,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "19"
     },
     {
@@ -3061,7 +3061,7 @@
       "descricao": "Aluguel",
       "categoria": "Moradia",
       "valor": 918.62,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "13"
     },
     {
@@ -3069,7 +3069,7 @@
       "descricao": "Churrasco",
       "categoria": "Lazer",
       "valor": 124.29,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "06"
     },
     {
@@ -3077,7 +3077,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 209.65,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "06"
     },
     {
@@ -3085,7 +3085,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 88.12,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "06"
     },
     {
@@ -3093,7 +3093,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 7.92,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "28"
     },
     {
@@ -3101,7 +3101,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 110.62,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "08"
     },
     {
@@ -3109,7 +3109,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 90.14,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "18"
     },
     {
@@ -3117,7 +3117,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 406.72,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "22"
     },
     {
@@ -3125,7 +3125,7 @@
       "descricao": "Conta de luz",
       "categoria": "Moradia",
       "valor": 306.37,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "16"
     },
     {
@@ -3133,7 +3133,7 @@
       "descricao": "Viagem para praia",
       "categoria": "Lazer",
       "valor": 1242.82,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "28"
     },
     {
@@ -3141,7 +3141,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 55.5,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "10"
     },
     {
@@ -3149,7 +3149,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 93.54,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "26"
     },
     {
@@ -3157,7 +3157,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 58.57,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "22"
     },
     {
@@ -3165,7 +3165,7 @@
       "descricao": "Consulta médica",
       "categoria": "Saúde",
       "valor": 207.91,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "30"
     },
     {
@@ -3173,7 +3173,7 @@
       "descricao": "Conta de água",
       "categoria": "Moradia",
       "valor": 100.11,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "20"
     },
     {
@@ -3181,7 +3181,7 @@
       "descricao": "Consulta médica",
       "categoria": "Saúde",
       "valor": 251.33,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "25"
     },
     {
@@ -3189,7 +3189,7 @@
       "descricao": "Aluguel",
       "categoria": "Moradia",
       "valor": 1840.69,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "29"
     },
     {
@@ -3197,7 +3197,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 115.2,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "23"
     },
     {
@@ -3205,7 +3205,7 @@
       "descricao": "Cinema",
       "categoria": "Lazer",
       "valor": 43.64,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "30"
     },
     {
@@ -3213,7 +3213,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 247.12,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "07"
     },
     {
@@ -3221,7 +3221,7 @@
       "descricao": "Conta de água",
       "categoria": "Moradia",
       "valor": 109.49,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "27"
     },
     {
@@ -3229,7 +3229,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 30.6,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "06"
     },
     {
@@ -3237,7 +3237,7 @@
       "descricao": "Seguro",
       "categoria": "Transporte",
       "valor": 685.72,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "16"
     },
     {
@@ -3245,7 +3245,7 @@
       "descricao": "Presente para mãe",
       "categoria": "Outros",
       "valor": 246.17,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "26"
     },
     {
@@ -3253,7 +3253,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 57.95,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "16"
     },
     {
@@ -3261,7 +3261,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 35.43,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "14"
     },
     {
@@ -3269,7 +3269,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 145.1,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "19"
     },
     {
@@ -3277,7 +3277,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 56.63,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "10"
     },
     {
@@ -3285,7 +3285,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 292.21,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "08"
     },
     {
@@ -3293,7 +3293,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 1.02,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "25"
     },
     {
@@ -3301,7 +3301,7 @@
       "descricao": "Compra no IFood",
       "categoria": "Alimentação",
       "valor": 71.63,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "25"
     },
     {
@@ -3309,7 +3309,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 15.68,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "16"
     },
     {
@@ -3317,7 +3317,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 85.02,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "31"
     },
     {
@@ -3325,7 +3325,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 84.93,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "23"
     },
     {
@@ -3333,7 +3333,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 110.41,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "24"
     },
     {
@@ -3341,7 +3341,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 20.82,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "03"
     },
     {
@@ -3349,7 +3349,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 53.01,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "30"
     },
     {
@@ -3357,7 +3357,7 @@
       "descricao": "Viagem para praia",
       "categoria": "Lazer",
       "valor": 2765.04,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "11"
     },
     {
@@ -3365,7 +3365,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 114.98,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "12"
     },
     {
@@ -3373,7 +3373,7 @@
       "descricao": "Clube",
       "categoria": "Lazer",
       "valor": 53.33,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "17"
     },
     {
@@ -3381,7 +3381,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 67.89,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "12"
     },
     {
@@ -3389,7 +3389,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 105.69,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "27"
     },
     {
@@ -3397,7 +3397,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 102.52,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "03"
     },
     {
@@ -3405,7 +3405,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 70.29,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "13"
     },
     {
@@ -3413,7 +3413,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 53.91,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "06"
     },
     {
@@ -3421,7 +3421,7 @@
       "descricao": "Academia",
       "categoria": "Saúde",
       "valor": 69.4,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "04"
     },
     {
@@ -3429,7 +3429,7 @@
       "descricao": "Farmácia",
       "categoria": "Saúde",
       "valor": 204.52,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "02"
     },
     {
@@ -3437,7 +3437,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 25.34,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "01"
     },
     {
@@ -3445,7 +3445,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 62.39,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "25"
     },
     {
@@ -3453,7 +3453,7 @@
       "descricao": "Conta de água",
       "categoria": "Moradia",
       "valor": 157.88,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "29"
     },
     {
@@ -3461,7 +3461,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 7.87,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "09"
     },
     {
@@ -3469,7 +3469,7 @@
       "descricao": "Seguro",
       "categoria": "Transporte",
       "valor": 337.03,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "15"
     },
     {
@@ -3477,7 +3477,7 @@
       "descricao": "Compra no IFood",
       "categoria": "Alimentação",
       "valor": 61.07,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "12"
     },
     {
@@ -3485,7 +3485,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 142.0,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "25"
     },
     {
@@ -3493,7 +3493,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 94.23,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "01"
     },
     {
@@ -3501,7 +3501,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 94.18,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "13"
     },
     {
@@ -3509,7 +3509,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 90.61,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "22"
     },
     {
@@ -3517,7 +3517,7 @@
       "descricao": "Compra no IFood",
       "categoria": "Alimentação",
       "valor": 45.05,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "21"
     },
     {
@@ -3525,7 +3525,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 326.83,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "06"
     },
     {
@@ -3533,7 +3533,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 92.43,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "11"
     },
     {
@@ -3541,7 +3541,7 @@
       "descricao": "Salão de beleza",
       "categoria": "Outros",
       "valor": 30.62,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "13"
     },
     {
@@ -3549,7 +3549,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 7.89,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "16"
     },
     {
@@ -3557,7 +3557,7 @@
       "descricao": "Consulta médica",
       "categoria": "Saúde",
       "valor": 73.57,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "22"
     },
     {
@@ -3565,7 +3565,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 112.17,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "22"
     },
     {
@@ -3573,7 +3573,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 378.92,
-      "mes": "2021-04",
+      "mes": "2023-04",
       "dia": "22"
     },
     {
@@ -3581,7 +3581,7 @@
       "descricao": "Clube",
       "categoria": "Lazer",
       "valor": 125.63,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "13"
     },
     {
@@ -3589,7 +3589,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 49.87,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "06"
     },
     {
@@ -3597,7 +3597,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 37.49,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "14"
     },
     {
@@ -3605,7 +3605,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 72.16,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "22"
     },
     {
@@ -3613,7 +3613,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 234.62,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "13"
     },
     {
@@ -3621,7 +3621,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 91.35,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "24"
     },
     {
@@ -3629,7 +3629,7 @@
       "descricao": "Farmácia",
       "categoria": "Saúde",
       "valor": 94.55,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "24"
     },
     {
@@ -3637,7 +3637,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 67.79,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "23"
     },
     {
@@ -3645,7 +3645,7 @@
       "descricao": "Aluguel",
       "categoria": "Moradia",
       "valor": 1753.06,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "23"
     },
     {
@@ -3653,7 +3653,7 @@
       "descricao": "Conta de água",
       "categoria": "Moradia",
       "valor": 135.11,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "25"
     },
     {
@@ -3661,7 +3661,7 @@
       "descricao": "Aluguel",
       "categoria": "Moradia",
       "valor": 1227.03,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "23"
     },
     {
@@ -3669,7 +3669,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 31.32,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "08"
     },
     {
@@ -3677,7 +3677,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 324.88,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "21"
     },
     {
@@ -3685,7 +3685,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 25.74,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "04"
     },
     {
@@ -3693,7 +3693,7 @@
       "descricao": "Revisão do carro",
       "categoria": "Transporte",
       "valor": 1995.72,
-      "mes": "2020-09",
+      "mes": "2022-09",
       "dia": "15"
     },
     {
@@ -3701,7 +3701,7 @@
       "descricao": "Compra no shopping",
       "categoria": "Lazer",
       "valor": 44.2,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "16"
     },
     {
@@ -3709,7 +3709,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 111.24,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "06"
     },
     {
@@ -3717,7 +3717,7 @@
       "descricao": "Academia",
       "categoria": "Saúde",
       "valor": 97.42,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "21"
     },
     {
@@ -3725,7 +3725,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 121.83,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "29"
     },
     {
@@ -3733,7 +3733,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 26.95,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "25"
     },
     {
@@ -3741,7 +3741,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 94.28,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "31"
     },
     {
@@ -3749,7 +3749,7 @@
       "descricao": "Supermercado",
       "categoria": "Alimentação",
       "valor": 393.7,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "22"
     },
     {
@@ -3757,7 +3757,7 @@
       "descricao": "Conta de água",
       "categoria": "Moradia",
       "valor": 161.68,
-      "mes": "2021-02",
+      "mes": "2023-02",
       "dia": "19"
     },
     {
@@ -3765,7 +3765,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 150.38,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "17"
     },
     {
@@ -3773,7 +3773,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 106.86,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "18"
     },
     {
@@ -3781,7 +3781,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 33.11,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "21"
     },
     {
@@ -3789,7 +3789,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 7.52,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "02"
     },
     {
@@ -3797,7 +3797,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 82.42,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "19"
     },
     {
@@ -3805,7 +3805,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 95.56,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "29"
     },
     {
@@ -3813,7 +3813,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 140.81,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "12"
     },
     {
@@ -3821,7 +3821,7 @@
       "descricao": "Compra no IFood",
       "categoria": "Alimentação",
       "valor": 29.6,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "12"
     },
     {
@@ -3829,7 +3829,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 93.59,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "09"
     },
     {
@@ -3837,7 +3837,7 @@
       "descricao": "Academia",
       "categoria": "Saúde",
       "valor": 67.91,
-      "mes": "2021-06",
+      "mes": "2023-06",
       "dia": "17"
     },
     {
@@ -3845,7 +3845,7 @@
       "descricao": "Cinema",
       "categoria": "Lazer",
       "valor": 92.85,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "05"
     },
     {
@@ -3853,7 +3853,7 @@
       "descricao": "Churrasco",
       "categoria": "Lazer",
       "valor": 126.28,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "23"
     },
     {
@@ -3861,7 +3861,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 34.43,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "23"
     },
     {
@@ -3869,7 +3869,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 71.68,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "19"
     },
     {
@@ -3877,7 +3877,7 @@
       "descricao": "Academia",
       "categoria": "Saúde",
       "valor": 165.69,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "07"
     },
     {
@@ -3885,7 +3885,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 134.85,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "16"
     },
     {
@@ -3893,7 +3893,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 58.64,
-      "mes": "2021-03",
+      "mes": "2023-03",
       "dia": "27"
     },
     {
@@ -3901,7 +3901,7 @@
       "descricao": "Compra no IFood",
       "categoria": "Alimentação",
       "valor": 44.93,
-      "mes": "2020-07",
+      "mes": "2022-07",
       "dia": "04"
     },
     {
@@ -3909,7 +3909,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 60.84,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "17"
     },
     {
@@ -3917,7 +3917,7 @@
       "descricao": "Conta do buteco",
       "categoria": "Lazer",
       "valor": 86.94,
-      "mes": "2020-12",
+      "mes": "2022-12",
       "dia": "10"
     },
     {
@@ -3925,7 +3925,7 @@
       "descricao": "Aluguel",
       "categoria": "Moradia",
       "valor": 1912.9,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "28"
     },
     {
@@ -3933,7 +3933,7 @@
       "descricao": "Salão de beleza",
       "categoria": "Outros",
       "valor": 37.49,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "01"
     },
     {
@@ -3941,7 +3941,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 23.64,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "11"
     },
     {
@@ -3949,7 +3949,7 @@
       "descricao": "Restaurante",
       "categoria": "Alimentação",
       "valor": 66.85,
-      "mes": "2020-08",
+      "mes": "2022-08",
       "dia": "11"
     },
     {
@@ -3957,7 +3957,7 @@
       "descricao": "Consulta médica",
       "categoria": "Saúde",
       "valor": 239.51,
-      "mes": "2020-06",
+      "mes": "2022-06",
       "dia": "07"
     },
     {
@@ -3965,7 +3965,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 42.03,
-      "mes": "2020-11",
+      "mes": "2022-11",
       "dia": "11"
     },
     {
@@ -3973,7 +3973,7 @@
       "descricao": "Conta de água",
       "categoria": "Moradia",
       "valor": 138.62,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "01"
     },
     {
@@ -3981,7 +3981,7 @@
       "descricao": "Padaria",
       "categoria": "Alimentação",
       "valor": 46.39,
-      "mes": "2021-05",
+      "mes": "2023-05",
       "dia": "18"
     },
     {
@@ -3989,7 +3989,7 @@
       "descricao": "Gasolina",
       "categoria": "Transporte",
       "valor": 34.12,
-      "mes": "2020-10",
+      "mes": "2022-10",
       "dia": "09"
     },
     {
@@ -3997,7 +3997,7 @@
       "descricao": "Cinema",
       "categoria": "Lazer",
       "valor": 43.58,
-      "mes": "2021-01",
+      "mes": "2023-01",
       "dia": "02"
     }
   ]
